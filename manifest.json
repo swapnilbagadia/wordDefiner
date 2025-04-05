@@ -6,7 +6,7 @@
  "permissions": [
  "contextMenus",
  "activeTab",
- "https://api.dictionaryapi.dev/*" // Replace with your API's domain
+ "https://api.dictionaryapi.dev/*"
  ],
  "background": {
  "service_worker": "background.js"
